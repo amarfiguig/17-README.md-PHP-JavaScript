@@ -1,6 +1,6 @@
 # 17 README.md PHP-JavaScript Project
 
-##Description
+## Description
 
 This is a simple project that demonstrates the use of PHP and JavaScript to create a responsive web application. It includes the following features:
 
