@@ -1,10 +1,21 @@
 # 17 README.md PHP-JavaScript Project
 
+#Description
+
 This is a simple project that demonstrates the use of PHP and JavaScript to create a responsive web application. It includes the following features:
 
 - A user login system with authentication and authorization
 - A dashboard displaying user information and data visualizations
 - A contact form with client-side validation
+
+## Contents
+
+1. [Description](#description)
+2. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [Tests](#tests)
+8. [License](#license)
 
 ## Installation
 
@@ -109,6 +120,11 @@ git push origin my-feature
 ``````
 
 ## License
+
+<p>
+    <img src="https://img.shields.io/badge/license-Apache-blue" />
+    <img src="https://img.shields.io/badge/license-MIT-green" />
+</p>
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
