@@ -15,7 +15,7 @@ This is a simple project that demonstrates the use of PHP and JavaScript to crea
 4. [Usage](#usage)
 5. [Contributing](#contributing)
 6. [Tests](#tests)
-7. [Regular Expressions](#Regular Expressions)
+7. [Regular Expressions](#regularexpressions)
 8. [License](#license)
 
 ## Installation
